@@ -5,7 +5,7 @@
 ;
 $TTL 300
 @ IN SOA blacklist.invalid. hostmaster.blacklist.invalid. (
-    2025072208 ; Serial
+    2025072210 ; Serial
     3600 ; Refresh
     900  ; Retry
     86400 ; Expire
